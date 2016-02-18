@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-echo "";
+echo "jhonathan fuentes noob XD";
 ?>
 </body>d
 </html>
