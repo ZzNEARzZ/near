@@ -12,5 +12,9 @@ for ($i = 0; $i < 100; $i++) {
 }
 
 ?>
+
+<br/>
+<a href="jonathan.php">clic para ver el nombre de tu jefe</a>
+
 </body>
 </html>
