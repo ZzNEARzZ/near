@@ -6,7 +6,12 @@
 </head>
 <body>
 <?php
-echo "jhonathan fuentes noob XD";
+
+for ($i = 0; $i < 100; $i++) {
+    echo "jesus marica";
+}
+
 ?>
-</body>d
+</body>
+d
 </html>
