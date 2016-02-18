@@ -16,5 +16,7 @@ for ($i = 0; $i < 100; $i++) {
 <br/>
 <a href="jonathan.php">clic para ver el nombre de tu jefe</a>
 
+<br>
+<a href="jesus.html">click en este link XD</a>
 </body>
 </html>
