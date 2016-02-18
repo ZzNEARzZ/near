@@ -10,7 +10,7 @@
 for ($i = 0; $i < 100; $i++) {
     echo "jesus marica";
 }
-
 ?>
+<a href="jesus.html">click en este link XD</a>
 </body>
 </html>
